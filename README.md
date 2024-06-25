@@ -1,6 +1,10 @@
-# Funple
-###📌 JSP &amp; Servlet / 클라우드 펀딩 웹사이트 
+# 💱Funple
+<br/>
 
+### 📌 JSP &amp; Servlet / 클라우드 펀딩 웹사이트 
+
+<br/>
+<br/>
 
 ![image-1(Powered by MaxAI)](https://github.com/ddu2ni/Funple/assets/150881952/8502e733-8da2-44d2-9a58-22fad39a1b82)
 ![image-2(Powered by MaxAI)](https://github.com/ddu2ni/Funple/assets/150881952/b6e49153-0743-4e8d-b5a2-580182881aed)
